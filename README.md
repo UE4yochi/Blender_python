@@ -1,0 +1,2 @@
+# Blender_python
+pythonのBlenderAPIのまとめ
